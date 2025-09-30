@@ -1,0 +1,32 @@
+{
+  "name": "jp-eas-generator",
+  "version": "1.0.0",
+  "description": "一个快速生成日本“緊急警報信号”（Emergency Alert Signal）音频的工具",
+  "main": "src/index.js",
+  "bin": {
+    "jp-eas-generator": "src/index.js"
+  },
+  "type": "commonjs",
+  "scripts": {},
+  "keywords": [
+    "EWBS",
+    "EAS",
+    "FSK",
+    "Japan",
+    "Emergency",
+    "Signal",
+    "Alert",
+    "Generator",
+    "Audio"
+  ],
+  "author": "azzbm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azzbm/jp-eas-generator.git"
+  },
+  "dependencies": {
+    "wav-decoder": "^1.3.0",
+    "wav-encoder": "^1.3.0"
+  }
+}
