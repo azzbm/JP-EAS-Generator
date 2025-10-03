@@ -1,6 +1,6 @@
 {
   "name": "jp-eas-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个快速生成日本“緊急警報信号”（Emergency Alert Signal）音频的工具",
   "main": "src/index.js",
   "bin": {

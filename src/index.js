@@ -22,6 +22,7 @@ async function printGroupedRegionNames() {
 
 module.exports = {
     printGroupedRegionNames,
+    AreaCodes,
     encode: makeEASWav,
     decode: decodeWav,
 };
